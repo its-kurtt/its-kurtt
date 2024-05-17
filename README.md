@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://64.media.tumblr.com/a045e43e010bb370617a88794dfd32c2/tumblr_o89qm62eKT1sc5pr3o1_r1_1280.gifv"/>
+<img align="center" alt="GIF" src="./assets/banner.gif"/>
 
 <br>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A47EE0&random=false&width=600&lines=Hey!+It's+Kurt" width="100%"/>
@@ -24,11 +24,9 @@ I am a Software Engineering student focused on web and game development. Current
 
 ### 🌐 Socials
 
-<div>
 <a href="https://discord.com/users/its.kurt"> 
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
 </a> 
-<a href="https://github.com/its-kurtt">
+<!-- <a href="https://github.com/its-kurtt">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-</a>
-</div>
+</a> -->
