@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./assets/banner.gif"/>
+<img align="center" alt="GIF" src="./assets/banner-2.gif"/>
 
 <br>
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A47EE0&random=false&width=600&lines=Hey!+It's+Kurt" width="100%"/>
@@ -6,9 +6,10 @@
 **`A Software Engineering Student`**
 
 ---
+![](https://komarev.com/ghpvc/?username=its-kurt&abbreviated=true&style=for-the-badge)
 
 ### :comet: About Me
-I am a Software Engineering student focused on web and game development. Currently, I am learning JavaScript, C++, and Java. In the past, I have developed Discord bots and Roblox games, merging technical skills with creativity. I am passionate about building innovative and engaging projects.
+I am a Software Engineering student focused on web and game development. Currently, I am learning JavaScript, C++, and Java. In the past, I have developed websites, Discord bots, and Roblox games, merging technical skills with creativity. I am passionate about building innovative and engaging projects.
 
 ### :computer: Skills and Experience
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -27,6 +28,7 @@ I am a Software Engineering student focused on web and game development. Current
 <a href="https://discord.com/users/its.kurt"> 
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
 </a> 
+
 <!-- <a href="https://github.com/its-kurtt">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
 </a> -->
